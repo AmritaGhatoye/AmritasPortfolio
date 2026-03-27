@@ -113,7 +113,7 @@ className = "grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-12 lg:gap-16 my-16"
   <div className="flex flex-col gap-8" >
     <h3 className="text-xl md:text-2xl font-semibold text-white mb-2" > Open to Opportunities </h3>
     <p className="text-slate-400 leading-relaxed mb-4" >
-      I'm actively seeking Cloud & AWS roles, software development positions, internships, and tech projects. Let's connect!
+      I'm actively seeking software Testing positions, internships, and tech projects. Let's connect!
     </p>
 
     {/* Contact Methods List */ }
